@@ -1,3 +1,10 @@
+---
+layout: default
+title: "K12ELA008: English Language Arts 8"
+course_description: "This course covers critical reading, writing, and thinking. You will read and analyze literary and informational texts and write original texts in multiple genres. This course emphasizes language and its conventions, and also provides opportunities to examine the spoken word."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: What is Courage?** <span id="3"></span> 
 *You will gain critical reading and viewing skills in this unit, with a
 focus on true stories. This unit’s materials feature two important

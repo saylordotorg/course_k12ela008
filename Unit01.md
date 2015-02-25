@@ -1,3 +1,10 @@
+---
+layout: default
+title: "K12ELA008: English Language Arts 8"
+course_description: "This course covers critical reading, writing, and thinking. You will read and analyze literary and informational texts and write original texts in multiple genres. This course emphasizes language and its conventions, and also provides opportunities to examine the spoken word."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: Rising To Challenges** <span id="1"></span> 
 *This unit features a full-length classic novel,* The Swiss Family
 Robinson*, and excerpts from a nonfiction work,* South: Journal of His

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "K12ELA008: English Language Arts 8"
+course_description: "This course covers critical reading, writing, and thinking. You will read and analyze literary and informational texts and write original texts in multiple genres. This course emphasizes language and its conventions, and also provides opportunities to examine the spoken word."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: The World of Art** <span id="2"></span> 
 *This unit features a full-length nonfiction text about the role art has
 played in our world. In addition to providing you with needed

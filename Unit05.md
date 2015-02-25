@@ -1,3 +1,10 @@
+---
+layout: default
+title: "K12ELA008: English Language Arts 8"
+course_description: "This course covers critical reading, writing, and thinking. You will read and analyze literary and informational texts and write original texts in multiple genres. This course emphasizes language and its conventions, and also provides opportunities to examine the spoken word."
+next: ../../../
+previous: ../Unit04
+---
 **Unit 5: Oral Traditions** <span id="5"></span> 
 *This unit focuses on stories that evolved from storytelling traditions,
 exposing you to classic tales that have inspired many of the modern

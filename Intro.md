@@ -1,3 +1,10 @@
+---
+layout: default
+title: "K12ELA008: English Language Arts 8"
+course_description: "This course covers critical reading, writing, and thinking. You will read and analyze literary and informational texts and write original texts in multiple genres. This course emphasizes language and its conventions, and also provides opportunities to examine the spoken word."
+next: ../Unit01
+previous: ../../../
+---
 Course Syllabus for "K12ELA008: English Language Arts 8"
 --------------------------------------------------------
 
