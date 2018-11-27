@@ -202,7 +202,7 @@ id="1.1.1.2"></span> 
 -   **Explanation: The Saylor Foundation: Tracy Derrell’s “Author’s
     Purpose”**
     Link: The Saylor Foundation: Tracy Derrell’s [“Author’s
-    Purpose”](http://www.saylor.org/site/wp-content/uploads/2013/05/Authors-Purpose.pdf) (PDF)  
+    Purpose”](https://resources.saylor.org/archived/wp-content/uploads/2013/05/Authors-Purpose.pdf) (PDF)  
         
      Instructions: This document features explanations of the three main
     reasons, or purposes, why authors create their texts. You may want
@@ -226,7 +226,7 @@ id="1.1.1.2"></span> 
 -   **Activity: The Saylor Foundation: Tracy Derrell’s “Sequence of
     Events”**
     Link: The Saylor Foundation: Tracy Derrell’s [“Sequence of
-    Events”](http://www.saylor.org/site/wp-content/uploads/2013/05/Sequence-of-Events.pdf) (PDF)  
+    Events”](https://resources.saylor.org/archived/wp-content/uploads/2013/05/Sequence-of-Events.pdf) (PDF)  
         
      Instructions: Read this document, which discusses sequence of
     events and why it’s important. What were the major events you
@@ -246,7 +246,7 @@ id="1.1.1.2"></span> 
 -   **Explanation: The Saylor Foundation: Tracy Derrell’s “Cause and
     Effect”**
     Link: The Saylor Foundation: Tracy Derrell’s [“Cause and
-    Effect”](http://www.saylor.org/site/wp-content/uploads/2013/05/Cause-and-Effect.pdf) (PDF)  
+    Effect”](https://resources.saylor.org/archived/wp-content/uploads/2013/05/Cause-and-Effect.pdf) (PDF)  
         
      Instructions: This document provides a brief explanation of cause
     and effect. *South* is a great piece of text to review when
@@ -275,7 +275,7 @@ theme.*
 -   **Explanation: The Saylor Foundation: Tracy Derrell’s “Literary
     Analysis Skills”**
     Link: The Saylor Foundation: Tracy Derrell’s [“Literary Analysis
-    Skills”](http://www.saylor.org/site/wp-content/uploads/2013/05/Literary-Analysis-Skills-South.pptx) (PPT)  
+    Skills”](https://resources.saylor.org/archived/wp-content/uploads/2013/05/Literary-Analysis-Skills-South.pptx) (PPT)  
         
      Instructions: Read through the second slide, entitled “Voice,”
     which has a brief explanation of voice and its role in literature.
@@ -301,7 +301,7 @@ theme.*
 -   **Explanation: The Saylor Foundation: Tracy Derrell’s “Literary
     Analysis Skills”**
     Link: The Saylor Foundation: Tracy Derrell’s [“Literary Analysis
-    Skills”](http://www.saylor.org/site/wp-content/uploads/2013/05/Literary-Analysis-Skills-South.pptx)
+    Skills”](https://resources.saylor.org/archived/wp-content/uploads/2013/05/Literary-Analysis-Skills-South.pptx)
     (PPT)  
         
      Instructions: Read through the third slide entitled “Analyzing
@@ -324,7 +324,7 @@ theme.*
 -   **Explanation: The Saylor Foundation: Tracy Derrell’s “Literary
     Analysis Skills”**
     Link: The Saylor Foundation: Tracy Derrell’s [“Literary Analysis
-    Skills”](http://www.saylor.org/site/wp-content/uploads/2013/05/Literary-Analysis-Skills-South.pptx)
+    Skills”](https://resources.saylor.org/archived/wp-content/uploads/2013/05/Literary-Analysis-Skills-South.pptx)
     (PPT)  
         
      Instructions: Read through the fourth and final slide, entitled
@@ -695,7 +695,7 @@ narrative essay. *
 **1.3.2 Strategies for Finding Writing Ideas** <span id="1.3.2"></span> 
 -   **Activity: The Saylor Foundation’s “Pre-Writing Activities”**
     Link: The Saylor Foundation's [“Pre-Writing
-    Activities”](http://www.saylor.org/site/wp-content/uploads/2012/09/engl000-1.4.1-pre-writing.pdf) (PDF)  
+    Activities”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/engl000-1.4.1-pre-writing.pdf) (PDF)  
         
      Instructions: Read the document, which gives some great strategies
     for finding writing ideas. There are two practice activities, which
@@ -727,7 +727,7 @@ narrative essay. *
     Narrative Essay: Facing Challenges”**
     Link: The Saylor Foundation: Tracy Derrell’s [“Rubric for Narrative
     Essay: Facing
-    Challenges”](http://www.saylor.org/site/wp-content/uploads/2013/05/Rubric-for-Narrative-Essay.-Facing-Challenges.pdf) (PDF)  
+    Challenges”](https://resources.saylor.org/archived/wp-content/uploads/2013/05/Rubric-for-Narrative-Essay.-Facing-Challenges.pdf) (PDF)  
         
      Instructions: Although rubrics are typically used to evaluate
     finished writing, they can also provide helpful support as you
@@ -757,7 +757,7 @@ notes. This subunit will help you improve these important skills.*
 -   **Explanation: The Saylor Foundation: Tracy Derrell’s “Conducting an
     Author Interview”**
     Link: The Saylor Foundation: Tracy Derrell’s [“Conducting an Author
-    Interview”](http://www.saylor.org/site/wp-content/uploads/2013/05/How-to-Prepare-for-an-Author-Interview.pdf) (PDF)  
+    Interview”](https://resources.saylor.org/archived/wp-content/uploads/2013/05/How-to-Prepare-for-an-Author-Interview.pdf) (PDF)  
         
      Instructions: Read the first half of the document, entitled “How to
     Prepare for an Author Interview,” which has more information about
@@ -779,7 +779,7 @@ notes. This subunit will help you improve these important skills.*
 -   **Explanation: The Saylor Foundation: Tracy Derrell’s “Conducting an
     Author Interview”**
     Link: The Saylor Foundation: Tracy Derrell’s [“Conducting an Author
-    Interview”](http://www.saylor.org/site/wp-content/uploads/2013/05/How-to-Prepare-for-an-Author-Interview.pdf) (PDF)  
+    Interview”](https://resources.saylor.org/archived/wp-content/uploads/2013/05/How-to-Prepare-for-an-Author-Interview.pdf) (PDF)  
         
      Instructions: Read the second half of the document, entitled “How
     to Conduct an Author Interview,” which provides some tips for a
@@ -811,7 +811,7 @@ potentially available in your library as printed copies.*
 -   **Activity: Curriki: Liddy Gerchman Barlow’s “Context Clue
     Worksheet”**
     Link: Curriki: Liddy Gerchman Barlow’s [“Context Clue
-    Worksheet”](http://www.saylor.org/site/wp-content/uploads/2013/05/Context-Clue-Checker.pdf) (PDF)  
+    Worksheet”](https://resources.saylor.org/archived/wp-content/uploads/2013/05/Context-Clue-Checker.pdf) (PDF)  
         
      Instructions: Download the worksheet, which features steps you can
     use to define unfamiliar words in context. Print out a copy (or two)
@@ -860,7 +860,7 @@ id="1.5.3"></span> 
     Reference…on Reference Books”**
     Link: The Saylor Foundation: Tracy Derrell’s [“A Reference…on
     Reference
-    Books”](http://www.saylor.org/site/wp-content/uploads/2013/05/All-About-Reference-Books.pdf) (PDF)  
+    Books”](https://resources.saylor.org/archived/wp-content/uploads/2013/05/All-About-Reference-Books.pdf) (PDF)  
         
      Instructions: Read this short document. It has a list of the major
     types of reference books you may encounter as a student.  
@@ -886,7 +886,7 @@ questions emphasizing speaking, listening and language.*
 -   **Checkpoint: The Saylor Foundation: Tracy Derrell’s “Reading and
     Writing”**
     Link: The Saylor Foundation: Tracy Derrell’s [“Reading and
-    Writing”](http://www.saylor.org/site/wp-content/uploads/2013/05/K12ELA8-1.6.1-Assessment-FINAL.pdf)
+    Writing”](https://resources.saylor.org/archived/wp-content/uploads/2013/05/K12ELA8-1.6.1-Assessment-FINAL.pdf)
     (PDF)  
         
      Instructions: Click on the link above to complete the assessment,
@@ -896,7 +896,7 @@ questions emphasizing speaking, listening and language.*
     seven sentences. It should take you about sixty minutes to read the
     text and respond to the accompanying questions. To check your
     answers, click
-    [here](http://www.saylor.org/site/wp-content/uploads/2013/11/K12ELA008-1.6.1-AnswerKey-FINAL.pdf).  
+    [here](https://resources.saylor.org/archived/wp-content/uploads/2013/11/K12ELA008-1.6.1-AnswerKey-FINAL.pdf).  
         
      Standards Addressed *(Common Core):*  
 
@@ -911,7 +911,7 @@ questions emphasizing speaking, listening and language.*
     Listening, and Language”**
     Link: The Saylor Foundation: Tracy Derrell’s [“Speaking, Listening,
     and
-    Language”](http://www.saylor.org/site/wp-content/uploads/2013/05/K12ELA8-1.6.2-Assessment-FINAL.pdf)
+    Language”](https://resources.saylor.org/archived/wp-content/uploads/2013/05/K12ELA8-1.6.2-Assessment-FINAL.pdf)
     (PDF)  
         
      Instructions: Please click on the link above to complete the
@@ -920,7 +920,7 @@ questions emphasizing speaking, listening and language.*
     tasks in your notebook. Each paragraph response should be three to
     five sentences. It should take you about twenty minutes to complete
     this assessment. To check your answers, click
-    [here](http://www.saylor.org/site/wp-content/uploads/2013/11/K12ELA008-1.6.2-AnswerKey-FINAL.pdf).  
+    [here](https://resources.saylor.org/archived/wp-content/uploads/2013/11/K12ELA008-1.6.2-AnswerKey-FINAL.pdf).  
         
      Standards Addressed (*Common Core*):
 

@@ -194,7 +194,7 @@ time.*
     of the book. During your study of *South: Journal of His Last
     Expedition to Antarctica*, you read a short document about cause and
     effect. If you need to review it, you can find it
-    [here](https://www.saylor.org/site/wp-content/uploads/2013/05/Cause-and-Effect.pdf).
+    [here](https://resources.saylor.org/archived/wp-content/uploads/2013/05/Cause-and-Effect.pdf).
     As you read the last several chapters of *Incidents in the Life of a
     Slave Girl*, try to identify some of the cause and effect
     relationships from the text. You aren’t limited to this final
@@ -500,7 +500,7 @@ id="3.3.2"></span> 
     Revising and Editing the Argumentative Essay**
     Link: The Saylor Foundation: Tracy Derrell’s [Checklist for Revising
     and Editing the Argumentative
-    Essay](http://www.saylor.org/site/wp-content/uploads/2013/05/Checklist-for-Evaluating-Writing.Argumentative-Essay.pdf) (PDF)  
+    Essay](https://resources.saylor.org/archived/wp-content/uploads/2013/05/Checklist-for-Evaluating-Writing.Argumentative-Essay.pdf) (PDF)  
         
      Instructions: Use the attached rubric to help you zero in on what
     you have done well and what you need to improve. Rating your paper
@@ -592,7 +592,7 @@ id="3.4.2"></span> 
 -   **Activity: The Saylor Foundation: Tracy Derrell’s “Create a Poster
     Presentation”**
     Link: The Saylor Foundation: Tracy Derrell’s [“Create a Poster
-    Presentation”](http://www.saylor.org/site/wp-content/uploads/2013/05/Create-a-Poster-Presentation.pdf) (PDF)  
+    Presentation”](https://resources.saylor.org/archived/wp-content/uploads/2013/05/Create-a-Poster-Presentation.pdf) (PDF)  
         
      Instructions: Choose a topic you feel strongly about. Some possible
     examples include bullying, healthy eating and exercising, using
@@ -624,7 +624,7 @@ speaking, listening, and language perspective.*
 -   **Checkpoint: The Saylor Foundation: Tracy Derrell’s “Reading and
     Writing”**
     Link: The Saylor Foundation: Tracy Derrell’s [“Reading and
-    Writing”](http://www.saylor.org/site/wp-content/uploads/2013/05/K12ELA8-3.5.1-Assessment-FINAL.pdf)
+    Writing”](https://resources.saylor.org/archived/wp-content/uploads/2013/05/K12ELA8-3.5.1-Assessment-FINAL.pdf)
     (PDF)  
         
      Instructions: Click on the link above to complete the assessment,
@@ -633,7 +633,7 @@ speaking, listening, and language perspective.*
     do the work directly on the page. If you are unable to print the
     page, you may copy the tasks into your notebook and complete them
     there. To check your answers, click
-    [here](http://www.saylor.org/site/wp-content/uploads/2013/11/K12ELA008-3.5.1-AnswerKey-FINAL.pdf).  
+    [here](https://resources.saylor.org/archived/wp-content/uploads/2013/11/K12ELA008-3.5.1-AnswerKey-FINAL.pdf).  
         
      It should take approximately 20 minutes to complete these tasks.  
         
@@ -650,7 +650,7 @@ speaking, listening, and language perspective.*
     Listening, and Language”**
     Link: The Saylor Foundation: Tracy Derrell’s [“Speaking, Listening,
     and
-    Language”](http://www.saylor.org/site/wp-content/uploads/2013/05/K12ELA8-3.5.2-Assessment-FINAL.pdf)
+    Language”](https://resources.saylor.org/archived/wp-content/uploads/2013/05/K12ELA8-3.5.2-Assessment-FINAL.pdf)
     (PDF)  
         
      Instructions: Click on the link above to complete the assessment.
@@ -659,7 +659,7 @@ speaking, listening, and language perspective.*
     work directly on the page. If you are unable to print the page, you
     may copy the tasks into your notebook and complete them there. To
     check your answers, click
-    [here](http://www.saylor.org/site/wp-content/uploads/2013/11/K12ELA008-3.5.2-AnswerKey-FINAL.pdf).  
+    [here](https://resources.saylor.org/archived/wp-content/uploads/2013/11/K12ELA008-3.5.2-AnswerKey-FINAL.pdf).  
         
      It should take approximately 20 minutes to complete these tasks.  
         
