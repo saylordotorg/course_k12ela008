@@ -102,7 +102,7 @@ worked their way into popular culture. It is also a great example of a
     Fairy Tales* Presentation: Part 1”**
     Link: The Saylor Foundation: Tracy Derrell’s [“*Grimms’ Fairy Tales*
     Presentation: Part
-    1”](http://www.saylor.org/site/wp-content/uploads/2013/05/Grimms-Fairy-Tales.pptx) (PPT)  
+    1”](https://resources.saylor.org/archived/wp-content/uploads/2013/05/Grimms-Fairy-Tales.pptx) (PPT)  
         
      Instructions: This presentation contains specific directions about
     which tales you should read. There are over 60 tales. You may read
@@ -157,7 +157,7 @@ worked their way into popular culture. It is also a great example of a
     Tales* Presentation: Part 2”**
     Link: The Saylor Foundation: Tracy Derrell’s [“*Grimms’ Fairy Tales*
     Presentation: Part
-    2”](http://www.saylor.org/site/wp-content/uploads/2013/05/Grimms-Fairy-Tales-Part-2.pptx) (PPT)  
+    2”](https://resources.saylor.org/archived/wp-content/uploads/2013/05/Grimms-Fairy-Tales-Part-2.pptx) (PPT)  
         
      Instructions: Read through the slides and prepare your materials.
     This activity focuses on looking more closely at the tales and using
@@ -333,7 +333,7 @@ id="5.3.2"></span> 
 -   **Activity: The Saylor Foundation: Tracy Derrell’s “Creating a
     Multimedia Retelling”**
     Link: The Saylor Foundation: Tracy Derrell’s [“Creating a Multimedia
-    Retelling”](http://www.saylor.org/site/wp-content/uploads/2013/05/Creating-a-Multimedia-Retelling.pdf) (PDF)  
+    Retelling”](https://resources.saylor.org/archived/wp-content/uploads/2013/05/Creating-a-Multimedia-Retelling.pdf) (PDF)  
         
      Instructions: * *Think about experiences your family has lived
     through that you'd like to share with others. All families have
@@ -417,7 +417,7 @@ speaking, listening, and language.*
 -   **Checkpoint: The Saylor Foundation: Tracy Derrell’s “Reading and
     Writing”**
     Link: The Saylor Foundation: Tracy Derrell’s [“Reading and
-    Writing”](http://www.saylor.org/site/wp-content/uploads/2013/05/K12ELA8-5.5.1-Assessment-FINAL.pdf)
+    Writing”](https://resources.saylor.org/archived/wp-content/uploads/2013/05/K12ELA8-5.5.1-Assessment-FINAL.pdf)
     (PDF)  
         
      Instructions: Click on the link above to complete the assessment.
@@ -425,7 +425,7 @@ speaking, listening, and language.*
     in Unit 5. Complete your responses in your notebook. Each response
     should be about a page long and incorporate details from the text to
     support your ideas. To check your answers, click
-    [here](http://www.saylor.org/site/wp-content/uploads/2013/11/K12ELA008-5.5.1-AnswerKey-FINAL.pdf).  
+    [here](https://resources.saylor.org/archived/wp-content/uploads/2013/11/K12ELA008-5.5.1-AnswerKey-FINAL.pdf).  
         
      It should take approximately 45 minutes to complete these tasks.  
         
@@ -442,14 +442,14 @@ speaking, listening, and language.*
     Listening, and Language”**
     Link: The Saylor Foundation: Tracy Derrell’s [“Speaking, Listening,
     and
-    Language”](http://www.saylor.org/site/wp-content/uploads/2013/05/K12ELA8-5.5.2-Assessment-FINAL.pdf)
+    Language”](https://resources.saylor.org/archived/wp-content/uploads/2013/05/K12ELA8-5.5.2-Assessment-FINAL.pdf)
     (PDF)  
         
      Instructions: Click on the link above to complete the assessment.
     It is designed to test your understanding of the skills and concepts
     in Unit 5. There are five questions, and each one should be answered
     in a minimum of two sentences. To check your answers, click
-    [here](http://www.saylor.org/site/wp-content/uploads/2013/11/K12ELA008-5.5.2-AnswerKey-FINAL.pdf).  
+    [here](https://resources.saylor.org/archived/wp-content/uploads/2013/11/K12ELA008-5.5.2-AnswerKey-FINAL.pdf).  
         
      It should take approximately 30 minutes to write your responses to
     the questions.  
