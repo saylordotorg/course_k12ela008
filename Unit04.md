@@ -429,7 +429,7 @@ about writing and punctuation.*
 -   **Checkpoint: The Saylor Foundation: Tracy Derrell’s “Reading and
     Writing”**
     Link: The Saylor Foundation: Tracy Derrell’s [“Reading and
-    Writing”](https://resources.saylor.org/archived/wp-content/uploads/2013/05/K12ELA8-4.6.1-Assessment-FINAL.pdf)
+    Writing”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/05/K12ELA8-4.6.1-Assessment-FINAL.pdf)
     (PDF)  
         
      Instructions: Click on the link above to complete the assessment,
@@ -437,7 +437,7 @@ about writing and punctuation.*
     concepts in Unit 4. Complete the following tasks in your notebook.
     Each response should be between two and three paragraphs in length.
     To check your answers, click
-    [here](https://resources.saylor.org/archived/wp-content/uploads/2013/11/K12ELA008-4.6.1-AnswerKey-FINAL.pdf).  
+    [here](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/11/K12ELA008-4.6.1-AnswerKey-FINAL.pdf).  
         
      It should take approximately 40 minutes to read the story and
     respond to the questions.  
@@ -455,7 +455,7 @@ about writing and punctuation.*
     Listening, and Language”**
     Link: The Saylor Foundation: Tracy Derrell’s “[Speaking, Listening,
     and
-    Language](https://resources.saylor.org/archived/wp-content/uploads/2013/11/Subunit-4.6.2-Assessment1.pdf)”
+    Language](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/11/Subunit-4.6.2-Assessment1.pdf)”
     (PDF)  
         
      Instructions: Click on the link above to complete the assessment,
@@ -465,7 +465,7 @@ about writing and punctuation.*
     questions can be completed directly on the page, or you can copy the
     items into your notebook and complete them there. To check your
     answers, click
-    [here](https://resources.saylor.org/archived/wp-content/uploads/2013/11/K12ELA008-4.6.2-AnswerKey-FINAL.pdf).  
+    [here](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/11/K12ELA008-4.6.2-AnswerKey-FINAL.pdf).  
         
      It should take approximately 30 minutes to complete this
     assessment.  

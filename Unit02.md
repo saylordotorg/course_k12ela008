@@ -177,7 +177,7 @@ id="2.1.1.1"></span> 
 -   **Activity: The Saylor Foundation: “Graphic Organizer: Fact vs.
     Opinion”**
     Link: The Saylor Foundation: [“Graphic Organizer: Fact vs.
-    Opinion”](https://resources.saylor.org/archived/wp-content/uploads/2013/05/Fact-vs-Opinion.pdf) (PDF)  
+    Opinion”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/05/Fact-vs-Opinion.pdf) (PDF)  
         
      Instructions: Distinguishing between fact and opinion is a
     necessary reading skill. As you are reading through *The Book of Art
@@ -305,7 +305,7 @@ id="2.1.1.3"></span> 
     New Words and Their Meanings”**
     Link: The Saylor Foundation: Tracy Derrell’s [“Taking Notes on New
     Words and Their
-    Meanings”](https://resources.saylor.org/archived/wp-content/uploads/2013/05/Taking-Notes-on-New-Words-and-Their-Meanings.pdf) (PDF)  
+    Meanings”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/05/Taking-Notes-on-New-Words-and-Their-Meanings.pdf) (PDF)  
         
      Instructions: *The Book of Art for Young People* contains many
     art-related terms and other terms and vocabulary that are probably
@@ -333,7 +333,7 @@ id="2.1.2.2"></span> 
     Organizer for Reading and Writing”**
     Link: The Saylor Foundation: Tracy Derrell’s [“T-Chart Organizer for
     Reading and
-    Writing”](https://resources.saylor.org/archived/wp-content/uploads/2013/05/T-Chart-Organizer-for-Analyzing-Literature.pdf) (PDF)  
+    Writing”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/05/T-Chart-Organizer-for-Analyzing-Literature.pdf) (PDF)  
         
      Instructions: You have now read two complete digital texts and an
     excerpt from a digital text.
@@ -368,7 +368,7 @@ process and soon have a finished piece.*
     “Checklist for Evaluating Writing”**
     Link: The Saylor Foundation: Tracy Derrell’s [“Checklist for
     Evaluating
-    Writing”](https://resources.saylor.org/archived/wp-content/uploads/2013/05/Checklist-for-Evaluating-Writing.pdf) (PDF)  
+    Writing”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/05/Checklist-for-Evaluating-Writing.pdf) (PDF)  
         
      Instructions: You are going to be proofreading, editing, and
     revising the draft you created during Unit 1. Click on the link
@@ -425,7 +425,7 @@ in public.*
 **2.3.1 Writing a Short Speech** <span id="2.3.1"></span> 
 -   **Activity: Curriki: Mr. Harpine’s “Speech Writing Outline”**
     Link: Curriki: Mr. Harpine’s [“Speech Writing
-    Outline”](https://resources.saylor.org/archived/wp-content/uploads/2013/05/The-Basic-Structure-of-a-Speech.pdf) (PDF)  
+    Outline”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/05/The-Basic-Structure-of-a-Speech.pdf) (PDF)  
         
      Instructions: Download and read this document, which contains
     details about the organization of a speech. You will find that it’s
@@ -533,7 +533,7 @@ id="2.4.1"></span> 
 -   **Explanation: The Saylor Foundation: Tracy Derrell’s “Those Crazy
     Capital Letters!”**
     Link: The Saylor Foundation: Tracy Derrell’s [“Those Crazy Capital
-    Letters!”](https://resources.saylor.org/archived/wp-content/uploads/2013/05/ThOsE-CrAzy-CaPiTaL-LeTteRs.pptx) (PPT)  
+    Letters!”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/05/ThOsE-CrAzy-CaPiTaL-LeTteRs.pptx) (PPT)  
         
      Instructions: This presentation addresses the use capital letters.
     If you find there are any instances you often have trouble with, for
@@ -555,7 +555,7 @@ id="2.4.2"></span> 
 -   **Explanation: The Saylor Foundation: Tracy Derrell’s “End
     Punctuation and Commas”**
     Link: The Saylor Foundation: Tracy Derrell’s [“End Punctuation and
-    Commas”](https://resources.saylor.org/archived/wp-content/uploads/2013/05/Use-Punctuation.pdf) (PDF)  
+    Commas”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/05/Use-Punctuation.pdf) (PDF)  
         
      Instructions: Read the explanations and examples for the four
     punctuation marks. As you work on different writing assignments, you
@@ -604,14 +604,14 @@ spelling. *
 -   **Checkpoint: The Saylor Foundation: Tracy Derrell’s “Reading and
     Writing”**
     Link: The Saylor Foundation: Tracy Derrell’s “[Reading and
-    Writing](https://resources.saylor.org/archived/wp-content/uploads/2013/11/Subunit-2.5.1-Assessment-FINAL.pdf)” (PDF)  
+    Writing](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/11/Subunit-2.5.1-Assessment-FINAL.pdf)” (PDF)  
         
      Instructions: Click on the link above to complete the assessment.
     It is designed to test your understanding of the skills and concepts
     in Unit 2. Complete all tasks in your notebook. Each paragraph
     response should be five to seven sentences. To check your answers,
     click
-    [here](https://resources.saylor.org/archived/wp-content/uploads/2013/11/K12ELA008-2.5.1-AnswerKey-FINAL.pdf).  
+    [here](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/11/K12ELA008-2.5.1-AnswerKey-FINAL.pdf).  
         
      It should take approximately 30 minutes to complete this
     assessment.  
@@ -630,7 +630,7 @@ spelling. *
     Listening, and Language”**
     Link: The Saylor Foundation: Tracy Derrell’s [“Speaking, Listening,
     and
-    Language”](https://resources.saylor.org/archived/wp-content/uploads/2013/11/K12ELA008-2.5.2-Assessment-FINAL-2.pdf)
+    Language”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/11/K12ELA008-2.5.2-Assessment-FINAL-2.pdf)
     (PDF)  
         
      Instructions: Click on the link above to complete the assessment.
@@ -638,7 +638,7 @@ spelling. *
     from Unit 2. You can print out the pages and complete the first
     eight items directly on the page. The last two items should be
     completed in your notebook. To check your answers, click
-    [here](https://resources.saylor.org/archived/wp-content/uploads/2013/11/K12ELA008-2.5.2-AnswerKey-FINAL.pdf).  
+    [here](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/11/K12ELA008-2.5.2-AnswerKey-FINAL.pdf).  
         
      It should take approximately 30 minutes to complete this
     assessment, which includes short answer tasks and two brief written
